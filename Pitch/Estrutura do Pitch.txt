@@ -1,0 +1,18 @@
+- SLIDE 00: Background (Apresentação Abilio)
+- SLIDE 01: As duas Personas
+- SLIDE 02: Raimundo
+- SLIDE 03: Antonio
+- SLIDE 04: Estatísticas
+- SLIDE 05: Logo summarize4me
+- SLIDE 06: summarize4me Funcionalidades
+- SLIDE 07: Overview da Aplicação (Como foi implementado)
+- SLIDE 08: Arquitetura da Aplicação - Global
+- SLIDE 09: Arquitetura da Aplicação - API Node.js
+- SLIDE 10: Modelo de Negócio (Como vamos lucrar)
+- SLIDE 11: Equipe
+- SLIDE 12: Mercado e Concorrência
+- SLIDE 13: Estratégia de Captação de Clientes
+- SLIDE 14: Planos Futuros
+- SLIDE 15: Demonstração
+- SLIDE 16: Dúvidas
+- SLIDE 17: Agradecimento

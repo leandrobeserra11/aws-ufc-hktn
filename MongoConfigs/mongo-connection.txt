@@ -1,0 +1,1 @@
+mongo --username admin --password summe4me2019 --authenticationDatabase teste --host 3.82.202.124 --port 27017

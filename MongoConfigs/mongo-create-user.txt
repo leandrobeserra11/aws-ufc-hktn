@@ -1,0 +1,24 @@
+use teste
+
+db.createUser({
+    user: 'admin',
+    pwd: 'summe4me2019',
+    roles: [{ role: 'readWrite', db:'dev'}]
+})
+
+db.createUser({
+    user: 'admin',
+    pwd: 'summe4me2019',
+    roles: [{ role: 'readWrite', db:'teste'}]
+})
+
+db.createUser({
+    user: 'admin',
+    pwd: 'summe4me2019',
+    roles: [{ role: 'readWrite', db:'prod'}]
+})
+
+use admin
+db.createUser( { user: "suadmin", 
+			  	 pwd: "summe4me2019",
+              	 roles: [ "userAdminAnyDatabase", "readWriteAnyDatabase", "dbAdminAnyDatabase", "clusterAdmin" ] } )

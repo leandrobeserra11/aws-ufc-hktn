@@ -1,0 +1,12 @@
+Personas: 
+	(Raimundo, perdeu uma palestra do seu grande ídolo e é muito atarefado pra escutar o audio completo);
+	(Antoim, perdeu uma aula e precisa rapidamente resumir o audio, Antoim é cego).
+
+Dores:
+	- Ter que escutar todo o áudio
+
+PLUS:
+ - Acessibilidade (Botão para reproduzir o resumo, enviar apenas texto (pessoas surdas));
+ - Níveis de Detalhes do Resumo;
+ - Insights sobre dados de um projeto;
+ - Sugestão de tópicos/delimitador de resumo.
